@@ -2,6 +2,8 @@
 
 Colección de libros interactivos, manuales y repositorios de código abierto para econometría aplicada, inferencia causal y programación.
 
+> **Aviso:** No soy propietario ni autor de ninguno de estos recursos, ni los he revisado todos de forma exhaustiva. Este espacio funciona simplemente como un archivo personal para almacenar enlaces que me parecen interesantes y que pueden ayudarme a aprender en el futuro o cuando los necesite.
+
 ## 1. Ciencia de Datos y Programación General
 
 * **[R para Ciencia de Datos (R4DS - Español)](https://davidrsch.github.io/r4ds-es/)** — *Materia: Programación y Gestión de Datos*
